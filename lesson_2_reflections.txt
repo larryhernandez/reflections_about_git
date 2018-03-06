@@ -1,0 +1,6 @@
+#lesson_2_reflections.txt
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A: The staging area operates on the repository. It holds snapshots of versions of files that you want to commit to the repository. You can update the file after placing it in the staging area. So it will still be in the working directory but might advance from whatever state it is in within the staging area.
+
