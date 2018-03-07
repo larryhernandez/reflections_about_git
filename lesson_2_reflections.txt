@@ -15,3 +15,7 @@ A: Branches would be helpful when experimenting with a new feature. A branch cou
 Q: How do the diagrams help you visualize the branch structure?
 
 A: Diagrams allow you to see the parent commits of each commit. They also allow you to see where branches are created and also where they diverge.
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way that we do?
+
+A: Merging two branches together consolidates all of the changes made by each branch. Both branches will have the updates made in the other branch. We represent the diagram the way that we do because it allows us to visualize that both branches are updated with respect to each other. It also allows us to visualize which commits are reachable / unreachable, and gives us a way to track commit history along each branch.
