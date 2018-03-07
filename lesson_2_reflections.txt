@@ -7,3 +7,9 @@ A: The staging area operates on the repository. It holds snapshots of versions o
 Q: How can you use the staging area to make sure you have one commit per logical change?
 
 A: I can add one logical change to the staging area at a time. Then I can commit that logical change. Consequently, I will have exactly one commit per logical change.
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A: Branches would be helpful when experimenting with a new feature. A branch could be helpful when implementing code to fix a bug that exists in the master branch. You would use a branch when refactoring code too.
+
+
