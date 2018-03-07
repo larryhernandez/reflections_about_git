@@ -4,3 +4,6 @@ Q: How is the staging area different from the working directory and the reposito
 
 A: The staging area operates on the repository. It holds snapshots of versions of files that you want to commit to the repository. You can update the file after placing it in the staging area. So it will still be in the working directory but might advance from whatever state it is in within the staging area.
 
+Q: How can you use the staging area to make sure you have one commit per logical change?
+
+A: I can add one logical change to the staging area at a time. Then I can commit that logical change. Consequently, I will have exactly one commit per logical change.
