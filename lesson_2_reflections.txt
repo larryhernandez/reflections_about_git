@@ -12,4 +12,6 @@ Q: What are some situations when branches would be helpful in keeping your histo
 
 A: Branches would be helpful when experimenting with a new feature. A branch could be helpful when implementing code to fix a bug that exists in the master branch. You would use a branch when refactoring code too.
 
+Q: How do the diagrams help you visualize the branch structure?
 
+A: Diagrams allow you to see the parent commits of each commit. They also allow you to see where branches are created and also where they diverge.
