@@ -45,3 +45,14 @@ person's GitHub website. This special type of clone operation automatically give
 to the person whose GitHub branch is being forked. Forking also saves the new user of the 
 repository from having to perform all the work that would be required when creating a new 
 repository on GitHub.
+
+
+
+Q: What is the benefit of having a copy of the last known state of the 
+remote stored locally?
+
+
+A: This allows a collaborator to work on the project offline while having
+access to the most recent version of the remote's commit history. This
+is helpful during flights in which a collaborator does not have internet
+access.
