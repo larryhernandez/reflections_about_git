@@ -1,0 +1,7 @@
+Q: When would you want to use a remote repository rather than keeping all your work local?
+
+A: Remote repositories are useful for collaborating with other people who have cloned copies
+of the repository to their computers. This is particularly useful for open source projects
+that could include tens or hundreds of people working on various aspects of a large project. 
+Remote repositories are also useful for an individual who is working on a project using 
+multiple computers.
