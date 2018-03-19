@@ -56,3 +56,18 @@ A: This allows a collaborator to work on the project offline while having
 access to the most recent version of the remote's commit history. This
 is helpful during flights in which a collaborator does not have internet
 access.
+
+
+Q: How would you collaborate without using Git or GitHub? What would be 
+easier, and what would be harder?
+
+A: Without GitHub I would have to arrange in-person meetings to review and
+discuss acceptable changes. This would make life much more difficult 
+because it requires scheduling common times and place for such a meeting.
+
+I'm not sure that there would be any aspects to collaborating that would
+be easier. I suppose not having to learn how to use Git / GitHub would be
+easier in the short term, but in the long run the learning curve associated
+with Git / GitHub is worth the investment.
+
+
