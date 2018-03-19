@@ -19,3 +19,29 @@ automatic updates may not be completely possible anyway since it's common
 for two branches to introduce changes to the same section of code within 
 the master branch, creating "merge conflicts" which would require 
 resolution to be performed manually.
+
+Q: Describe the differences between forks, clones, and branches. When would you use one 
+instead of another?
+
+A: A clone is a copy of a repository that is performed using revision control software 
+so that changes are automatically tracked. A clone is performed when joining a project
+for the first time from a specific computer. For instance, to collaborate on a project
+while working from a computer at the office one would create a clone. If working from
+another computer is allowed, such as a company-provided laptop, then the repository
+could be cloned to that laptop as well.
+
+
+A branch is a special kind of copy of an existing repository that is already under 
+revision-control. Branches are generated to test new features or make other changes to a 
+repository so that the master (ie primary) version of that repository is not immediately 
+affected by the changes made within the branch. Changes made to a branch can and should be 
+pushed to the master branch, and at some point the branch could merge with the master 
+branch. Several branches can exist and will all be managed by the revision control 
+software. 
+
+A fork is a special type of clone that is done on the GitHub website where the original
+repository resides in one GitHub user's website and the cloned repoistory exists on another
+person's GitHub website. This special type of clone operation automatically gives credit 
+to the person whose GitHub branch is being forked. Forking also saves the new user of the 
+repository from having to perform all the work that would be required when creating a new 
+repository on GitHub.
