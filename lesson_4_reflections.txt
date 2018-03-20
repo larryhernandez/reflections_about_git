@@ -71,3 +71,18 @@ easier in the short term, but in the long run the learning curve associated
 with Git / GitHub is worth the investment.
 
 
+Q: When would you want to make changes in a separate branch rather than 
+   directly in master? What benefits does each approach have?
+
+A: Making changes in a separate branch allows one to experiment with the
+   project while keeping the "master" copy of the project in working 
+   condition. This gives collaborators a sense of freedom that they can
+   try new things without temporarily ruining the project. 
+
+   The benefit of making changes directly in master is that changes are
+   automatically implemented in the project without need for pushing or
+   pulling updates.
+
+
+
+
